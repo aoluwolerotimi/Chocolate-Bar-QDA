@@ -1,2 +1,3 @@
-# Chocolate-Bar-QDA
- Exploratory project getting familiar with quadratic discriminant analysis as a classification algorithm
+# Predicting a chocolate bar's cocoa beans
+This was an exploratory project to get acquainted with quadratic and linear discriminant analysis as classification algorithms. 
+Using this [chocolate ratings dataset](https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings), I attempted to answer the question:  Given a chocolate's cocoa percentage and expert taste rating, can we tell what type of cocoa bean was used? 
